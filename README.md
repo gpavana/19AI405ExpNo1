@@ -1,8 +1,4 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
-
-
 <h3>AIM:</h3>
 <br>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
@@ -41,8 +37,8 @@
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
 
-## DEVELOPED BY:PAVANA.G
-## REGISTER NUMBER:212222230105
+<h1>DEVELOPED BY:PAVANA.G</h1>
+<h2>>REGISTER NUMBER:212222230105</h2>
 
 ## PROGRAM:
 ```python
